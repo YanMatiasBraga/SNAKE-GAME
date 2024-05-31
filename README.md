@@ -41,6 +41,6 @@ Este é um simples jogo de Snake (cobrinha) desenvolvido em Python utilizando a 
 
 # Capturas de Tela
 
-![Captura de Tela 1](img/ANAKE%20GAME%20CAPA.jpeg)
-![Captura de Tela 1](img/SNAKE%20GAME.jpg)
+![Captura de Tela 1](assets/IMG/ANAKE%20GAME%20CAPA.jpeg)
+![Captura de Tela 1](assets/IMG/SNAKE%20GAME.jpg)
 
